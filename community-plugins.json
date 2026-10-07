@@ -41317,7 +41317,7 @@
     "id": "grill",
     "name": "Grill",
     "author": "Adam Danielsson",
-    "description": "Quiz yourself on your own notes. BYOK or run locally. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Quiz yourself on your own notes. AI writes the questions, grades your answers and maps what you know. Start free, bring your own key, or study offline. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "theadamdanielsson/grill"
   },
   {
